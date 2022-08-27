@@ -1,0 +1,18 @@
+.Main-div{
+    display: flex;
+}
+.submain-div{
+    height: 320px;
+    width: 250px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.img{
+    height: 70%;
+    width: 70%;
+}
+.add-to-cart{
+    width:100%;
+    height:40px;
+    background-color:black;
+    color:white;
+}
