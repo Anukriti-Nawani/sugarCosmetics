@@ -1,0 +1,16 @@
+{
+    "FaceProduct":[
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-banana-powder-13289662218323.jpg?v=1619115199"
+    ,"name":"ALL SET GO BANANA POWDER","price":"Rs.599","rating":"4.8","id":"2"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28391223263315.jpg?v=1623073552",
+    "name":"RAGE FOR COVERAGE FOUNDATION","price":"Rs.799","rating":"4.8","id":"3"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-28122599424083.jpg?v=1619116314"
+    ,"name":"POWDER PLAY BANANA COMPACT","price":"Rs.599","rating":"4.7","id":"4"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598932563.jpg?v=1619116304"
+    ,"name":"POWDERPLAY TRANSLUCENT COMPACT","price":"Rs.599","rating":"4.7","id":"5"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-12775602356307.jpg?v=1619106501",
+    "name":"DREAM COVER SPF15 COMPACT","price":"Rs.499","rating":"4.7","id":"1"},
+    {"img":"https://cdn.shopify.com/s/files/1/0906/2558/products/10_399a571c-c091-4d1c-bc17-111b7da9cd4e.jpg?v=1648741253"
+    ,"name":"SET THE TONE TINTED POWDER","price":"Rs.699","rating":"4.7","id":"6"}
+]
+}
